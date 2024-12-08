@@ -13,6 +13,7 @@ First Desgin (Prototype) 13-11-2024
 
 Update 12-8-2024
 
+
 Protoype Version
 
 There are some errors like overlapping uv, bad topology, many useless vertices etc
@@ -29,8 +30,9 @@ There are some errors like overlapping uv, bad topology, many useless vertices e
 ![Desktop Screenshot 2024 11 09 - 16 45 03 15](https://github.com/user-attachments/assets/b7824b8f-fc88-462d-8d12-91d4abc8d748)
 ![Desktop Screenshot 2024 12 04 - 15 21 13 19](https://github.com/user-attachments/assets/084133e9-ca3d-42bf-9a71-186d8a8d4af1)
 ![Desktop Screenshot 2024 12 04 - 15 21 41 60](https://github.com/user-attachments/assets/f07e5c7c-95da-4c9d-8869-20daa848da00)
-![Desktop Screenshot 2024 12 07 - 23 18 11 91](https://github.com/user-attachments/assets/27fac870-8a5e-4c86-885e-cd49dd455d89)
+![Desktop Screenshot 2024 12 04 - 15 21 13 19](https://github.com/user-attachments/assets/3a583c51-637d-48c3-ada3-91aa124ba6ef)
 ![Desktop Screenshot 2024 12 04 - 15 21 54 54](https://github.com/user-attachments/assets/208cafb3-b8e8-4808-933c-f038bbeaab2c)
+![gadang house final test texture low version3](https://github.com/user-attachments/assets/1fdca8a0-a34d-45a1-a032-2eba94b10a36)
 
 
 Alpha Version
@@ -38,6 +40,9 @@ Alpha Version
 Try texturing with Subtance Painter
 
 ![test texturing](https://github.com/user-attachments/assets/37eb7703-94af-481c-aa8a-43acad4dd21c)
-![Desktop Screenshot 2024 12 04 - 15 21 13 19](https://github.com/user-attachments/assets/3a583c51-637d-48c3-ada3-91aa124ba6ef)
 ![test texturing 2_ssdfdsf_](https://github.com/user-attachments/assets/b38b77b8-3931-4ca4-8be3-d88ffc394d9e)
 
+Beta Version
+
+![Desktop Screenshot 2024 12 07 - 23 18 11 91](https://github.com/user-attachments/assets/27fac870-8a5e-4c86-885e-cd49dd455d89)
+![gadang house final test texture low version5](https://github.com/user-attachments/assets/6c7bd257-cb81-436d-83d6-6d6a1767e788)
