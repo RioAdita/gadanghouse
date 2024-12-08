@@ -43,6 +43,8 @@ Try texturing with Subtance Painter
 
 Beta Version
 
+Lack of time to complete it, there are some parts that are missing texture and some have not been detailed shading
+
 ![Desktop Screenshot 2024 12 07 - 23 18 11 91](https://github.com/user-attachments/assets/27fac870-8a5e-4c86-885e-cd49dd455d89)
 ![gadang house final test texture low version5](https://github.com/user-attachments/assets/6c7bd257-cb81-436d-83d6-6d6a1767e788)
 ![gadang house final test texture low version3](https://github.com/user-attachments/assets/1fdca8a0-a34d-45a1-a032-2eba94b10a36)
