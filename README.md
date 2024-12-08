@@ -32,7 +32,6 @@ There are some errors like overlapping uv, bad topology, many useless vertices e
 ![Desktop Screenshot 2024 12 04 - 15 21 41 60](https://github.com/user-attachments/assets/f07e5c7c-95da-4c9d-8869-20daa848da00)
 ![Desktop Screenshot 2024 12 04 - 15 21 13 19](https://github.com/user-attachments/assets/3a583c51-637d-48c3-ada3-91aa124ba6ef)
 ![Desktop Screenshot 2024 12 04 - 15 21 54 54](https://github.com/user-attachments/assets/208cafb3-b8e8-4808-933c-f038bbeaab2c)
-![gadang house final test texture low version3](https://github.com/user-attachments/assets/1fdca8a0-a34d-45a1-a032-2eba94b10a36)
 
 
 Alpha Version
@@ -46,3 +45,5 @@ Beta Version
 
 ![Desktop Screenshot 2024 12 07 - 23 18 11 91](https://github.com/user-attachments/assets/27fac870-8a5e-4c86-885e-cd49dd455d89)
 ![gadang house final test texture low version5](https://github.com/user-attachments/assets/6c7bd257-cb81-436d-83d6-6d6a1767e788)
+![gadang house final test texture low version3](https://github.com/user-attachments/assets/1fdca8a0-a34d-45a1-a032-2eba94b10a36)
+![gadang house final test texture low version4](https://github.com/user-attachments/assets/46839b62-dc04-426f-af44-ed3e89221e8c)
