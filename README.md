@@ -49,3 +49,8 @@ Lack of time to complete it, there are some parts that are missing texture and s
 ![gadang house final test texture low version5](https://github.com/user-attachments/assets/6c7bd257-cb81-436d-83d6-6d6a1767e788)
 ![gadang house final test texture low version3](https://github.com/user-attachments/assets/1fdca8a0-a34d-45a1-a032-2eba94b10a36)
 ![gadang house final test texture low version4](https://github.com/user-attachments/assets/46839b62-dc04-426f-af44-ed3e89221e8c)
+
+final version [In memory of my father]
+
+<img width="1920" height="1080" alt="gadang house final test texture 3" src="https://github.com/user-attachments/assets/7224a93b-df36-4bda-b5a6-d567f03abcf9" />
+
